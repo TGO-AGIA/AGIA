@@ -1,11 +1,11 @@
 
-# AGIA兴趣小组  （草稿版）
+# AGIA实战营  
 
 AGI 实战营（AGI in Action），是 TGO 鲲鹏会的 100 个行业/兴趣小组之一，面向所有 TGO 鲲鹏会会员以及关注 AGI 实战落地的朋友。我们将以Github Organizations的形式来运营该组织，我们计划招募1000实战需求，在其中筛选100个尝试孵化落地。 
 
 
 
-- 小组名称：AGIA（AGI in Action）-AGI实战营
+- 组织名称：AGIA（AGI in Action）-AGI实战营
 - 面向人群：
   - 1 面向所有 TGO 鲲鹏会会员；
   - 2 关注 AGI 实战落地的朋友；
