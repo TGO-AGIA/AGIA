@@ -1,5 +1,7 @@
 # 如何部署一个智源大模型实例
-Aquila：https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila  
+Aquila主页：https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila  
+
+下面以智源AquilaChat模型为例介绍从头部署的流程。
 
 本次智源人工智能大会发布大模型有关的三部分内容：
 - 大语言模型系列，包括：
@@ -9,7 +11,6 @@ Aquila：https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila
 - FlagEval（天秤）评测体系和工具；
 - 视觉模型：补全一切的多模态大模型 Emu、最强十亿级视觉基础模型 EVA、性能最强开源 CLIP 模型 EVA-CLIP，还有一通百通、分割一切的视界通用分割模型（即 SegGPT）。
 
-下面以AquilaChat模型为例介绍从头部署的流程。
   
 # 准备操作系统环境
 本文所示的环境如下，如何从0开始构建下面一套环境，请参考另一篇 [ 文档]()。
@@ -105,7 +106,7 @@ if __name__ == "__main__":
 
  python demo.py
  
- 如果一切顺利的话，你就可以开始全面测评一下，运行结果如下。
+ 首次运行会自动下载Aquilachat-7B的model文件，大小15G左右，下载完成后运行结果如下，你就可以开始全面测评一下。
 
 ```
 $ python demo.py 
@@ -121,6 +122,7 @@ pred is 北京在哪儿? 北京是中国的首都，位于华北平原中心，�
 <|Human|>: 
 ```
 
+这是AGIA的第一份HowTo系列文档，有不完善的地方欢迎大家提交commit一起维护。后面我们将推出针对各家开源模型的howto文档，包括部署、微调、api实例等等。另外如果大家对AGIA有兴趣，可以进入[AGIA首页](https://github.com/TGO-AGIA/AGIA)详细了解。
 
 
 
