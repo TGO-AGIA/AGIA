@@ -17,6 +17,7 @@ Aquila主页：https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila
 - OS: Ubuntu 22.04.2 LTS
 - Nvidia驱动：530.30.02    
 - CUDA Version: 12.1
+- conda环境
 
 # Aquila7B部署
 
