@@ -1,4 +1,4 @@
-#如何部署一个智源大模型实例
+# 如何部署一个智源大模型实例
 Aquila：https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila  
 
 本次智源人工智能大会发布大模型有关的三部分内容：
@@ -11,27 +11,28 @@ Aquila：https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila
 
 下面以AquilaChat模型为例介绍从头部署的流程。
   
-#准备操作系统环境
-本文所示的环境如下，如何从0开始构建下面一套环境，请参考另一篇文档。
+# 准备操作系统环境
+本文所示的环境如下，如何从0开始构建下面一套环境，请参考另一篇 [ 文档]()。
 - OS: Ubuntu 22.04.2 LTS
 - Nvidia驱动：530.30.02    
 - CUDA Version: 12.1
 
-#Aquila7B部署要求
-load模型内存占用在45G、初始显存占用16G多一点。所以内存建议64G以上（不够的话可以挂一个虚拟内存），推荐GPU显存24G。
+# Aquila7B部署
+
+## Aquila7B部署准备
+load模型内存占用在45G、初始显存占用16G多一点。所以内存建议*64G以上*（不够的话可以挂一个虚拟内存），推荐GPU显存24G。
 
 * Python 版本 >= 3.8
 * PyTorch 版本 >= 1.8.0
 
-#Aquila7B环境准备
 
-##初始化conda环境
+## 初始化conda环境
 ```
 conda create --name flagai python=3.10
 conda activate flagai
 ```
 
-##同步代码安装依赖包
+## 同步代码安装依赖包
 ```
 git clone https://github.com/FlagAI-Open/FlagAI.git
 pip install .
@@ -43,7 +44,7 @@ pip install gradio mdtex2html  #gradio 需要
 python setup.py install
 ```
 
-##写一个DEMO脚本来启动模型
+## 写一个DEMO脚本来启动模型
 如果运行到这里且没有报错，那主要工作就完成了，由于官方自动的demo（python examples/Aquila/Aquila-chat/）运行报错，这里就手动写一个最简单的demo，实现可以在命令行下多轮提问。
 
 ```
@@ -100,7 +101,7 @@ if __name__ == "__main__":
     main()
 ```
 
-##运行DEMO脚本
+## 运行DEMO脚本
 
  python demo.py
  
