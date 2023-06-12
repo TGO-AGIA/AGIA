@@ -143,6 +143,7 @@ vim /data/good/FlagAI/flagai/mpu/grads.py
  import sys 
 ```
 
+# 最后，欢迎关注AGIA实战营
 
 这是AGIA的第一份HowTo系列文档，有不完善的地方欢迎大家提交commit一起维护。后面我们将推出针对各家开源模型的howto文档，包括部署、微调、api实例等等。另外如果大家对AGIA有兴趣，可以进入[AGIA首页](https://github.com/TGO-AGIA/AGIA)详细了解。
 
