@@ -1,7 +1,4 @@
 # 如何部署一个智源大模型实例
-Aquila主页：https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila  
-
-下面以智源AquilaChat模型为例介绍从头部署的流程。
 
 先了解一些背景，在2023年6月10号，智源人工智能大会发布了大模型有关的三部分内容：
 >- 大语言模型系列，包括：
@@ -11,6 +8,9 @@ Aquila主页：https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila
 >- FlagEval（天秤）评测体系和工具；
 >- 视觉模型：补全一切的多模态大模型 Emu、最强十亿级视觉基础模型 EVA、性能最强开源 CLIP 模型 EVA-CLIP，还有一通百通、分割一切的视界通用分割模型（即 SegGPT）。
 
+Aquila主页：https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila  
+
+下面以智源AquilaChat模型为例介绍从头部署的流程。
   
 # 准备操作系统环境
 本文所示的环境如下，如何从0开始构建下面一套环境，请参考另一篇 [ 文档]()。
