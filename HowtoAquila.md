@@ -123,6 +123,27 @@ pred is 北京在哪儿? 北京是中国的首都，位于华北平原中心，�
 <|Human|>: 
 ```
 
+## 遇到的问题
+
+1 运行python examples/Aquila/Aquila-chat/时遇到。在最新的1.7.1，该问题官方已经解决了。
+```
+ModuleNotFoundError: No module named 'torch._six'
+```
+解决参考：https://discuss.pytorch.org/t/cannot-import-name-int-classes-from-torch-six/126611/3
+
+2 运行python examples/Aquila/Aquila-chat/时遇到。 暂时还没有找到解决办法
+
+```
+aquila_chat.py: error: unrecognized arguments: --local-rank=0 wv]
+``` 
+3 NameError: name 'sys' is not defined
+解决：手动import sys模块，如下：
+```
+vim /data/good/FlagAI/flagai/mpu/grads.py
+ import sys 
+```
+
+
 这是AGIA的第一份HowTo系列文档，有不完善的地方欢迎大家提交commit一起维护。后面我们将推出针对各家开源模型的howto文档，包括部署、微调、api实例等等。另外如果大家对AGIA有兴趣，可以进入[AGIA首页](https://github.com/TGO-AGIA/AGIA)详细了解。
 
 
