@@ -85,7 +85,7 @@ with torch.no_grad():
     print(f"pred is {out}")
 
 def main():
-
+    prompt = ""
     print("欢迎使用 Aquilachat-7b 人工智能助手！输入内容即可进行对话。输入 clear 以清空对话历史，输入 stop 以终止对话。")
     while True:
         query = input("<|Human|>: ")
