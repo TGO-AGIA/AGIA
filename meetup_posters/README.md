@@ -8,7 +8,7 @@
 ## AGIA第二期 
 海报：
 
-<img width="300" src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.02-20230615..jpg"/>
+<img width="300" src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.02-20230615.jpg"/>
 
 ## AGIA第三期 
 海报：
@@ -18,5 +18,5 @@
 ## AGIA第四期 
 海报：
 
-<img width="300" src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726..jpg"/>
+<img width="300" src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/>
 
