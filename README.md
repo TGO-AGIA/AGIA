@@ -1,5 +1,6 @@
 
 # AGIA实战营  
+[AGIA线下沙龙信息](https://github.com/TGO-AGIA/AGIA/tree/main/meetup_posters)
 
 ## AGIA实战营是什么 
 
