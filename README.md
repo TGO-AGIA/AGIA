@@ -1,5 +1,4 @@
-![](https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpp)
-<img width="300" src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.01-20230531..jpg"/>
+<img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/>
 
 
 <p align="center">
