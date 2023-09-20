@@ -1,10 +1,14 @@
+![](./images/describe-cn.jpg)
+<p align="center">
+  <a href="https://github.com/TGO-AGIA/AGIA/tree/main/meetup_posters">线下沙龙</a> |
+  <a href="https://github.com/TGO-AGIA/AGIA/">申请加入</a> |
+  <a href="">项目列表</a> |
+</p>
 
-# AGIA实战营  
-[AGIA线下沙龙信息](https://github.com/TGO-AGIA/AGIA/tree/main/meetup_posters)
 
 ## AGIA实战营是什么 
 
-AGIA 实战营（AGI in Action），是由 20 位 [TGO 鲲鹏会](https://tgo.infoq.cn/)会员共同发起的，隶属于 TGO 鲲鹏会的**开放社区**，面向所有 **TGO 鲲鹏会会员**以及**关注 AGI 实战落地的朋友**，成员以大模型方向的创业者和中高层技术管理者为主。AGIA 实战营定期组织线下沙龙深度交流实战案例，聚合资源，助力大模型更快落地。主理人为 [TGO 鲲鹏会](https://tgo.infoq.cn/)学员老白。项目主页：https://github.com/TGO-AGIA/AGIA/ 。
+AGIA 实战营（AGI in Action），是由 20 位 [TGO 鲲鹏会](https://tgo.infoq.cn/)会员共同发起的，隶属于 TGO 鲲鹏会的**开放社区**，面向所有 **TGO 鲲鹏会会员**以及**关注 AGI 实战落地的朋友**，成员以大模型方向的创业者和中高层技术管理者为主。AGIA 实战营定期组织线下沙龙深度交流实战案例，聚合资源，助力大模型更快落地。主理人为 [TGO 鲲鹏会](https://tgo.infoq.cn/)学员老白（白新奋）。项目主页：https://github.com/TGO-AGIA/AGIA/ 。
   
 
 我们将以**Github Organizations**的形式来运营该组织，我们计划招募1000个实战需求，在其中筛选100个尝试孵化落地。 
