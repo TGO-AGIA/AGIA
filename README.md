@@ -1,4 +1,6 @@
 ![](https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpp)
+<img width="300" src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.01-20230531..jpg"/>
+
 
 <p align="center">
   <a href="https://github.com/TGO-AGIA/AGIA/tree/main/meetup_posters">线下沙龙</a> |
