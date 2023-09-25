@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://github.com/TGO-AGIA/AGIA/tree/main/meetup_posters">线下沙龙</a> |
-  <a href="https://github.com/TGO-AGIA/AGIA/">申请加入</a> |
-  <a href="https://github.com/TGO-AGIA/AGIA/tree/main/blog">技术博客</a> |
+  <a href="https://jinshuju.net/f/K1UnOv">申请加入</a> |
+  <a href="https://github.com/TGO-AGIA/AGIA/tree/main/blog.md">技术博客</a> |
 </p>
 
 
