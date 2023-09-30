@@ -18,6 +18,41 @@
 
 
 
+## AGIA第二期 
+```
+主持人：ValueZ创始人 洪倍
+日期：5月31 日 (周三) 19:00-21:30
+地址：乐言科技 (长宁路 1033 号联大厦 19 楼)
+
+```
+| 合照 |    海报     |
+| --- | ----------- |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.02-20230615.jpg"/> |
+
+## AGIA第三期 
+```
+主持人：ValueZ创始人 洪倍
+日期：5月31 日 (周三) 19:00-21:30
+地址：乐言科技 (长宁路 1033 号联大厦 19 楼)
+
+```
+| 合照 |    海报     |
+| --- | ----------- |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.04-20230712..jpg"/> |
+
+## AGIA第四期 
+```
+主持人：ValueZ创始人 洪倍
+日期：5月31 日 (周三) 19:00-21:30
+地址：乐言科技 (长宁路 1033 号联大厦 19 楼)
+
+```
+| 合照 |    海报     |
+| --- | ----------- |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/> |
+
+
+
 ## AGIA第一期 
 海报：
 
