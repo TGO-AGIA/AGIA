@@ -93,4 +93,11 @@ GPU算力赞助商：http://wanjiedata.com/home
 
 欢迎更多赞助商，算力、小礼品都欢迎，也欢迎行业内各组织联系合办活动。联系方式 good_bai # qq.com
 
+## ----------
+
+| AGIA Github主页 |    申请加入链接     |  
+| --- | ----------- |
+| <img width="200" src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-github.png"/>
+ | <img width="200" src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-in.png"/> |
+
 
