@@ -1,4 +1,4 @@
-<img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/003-photo.jpg"/>
+<img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/002-photo.jpg"/>
 
 
 <p align="center">
