@@ -19,7 +19,7 @@
 
 
 
-## AGIA第二期 
+## AGIA第二期 SD专场
 主持人：张建华 递零科技 CEO、TGO(上海)学员
 
 ```
@@ -38,7 +38,7 @@
 | --- | ----------- |
 | <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/002-photo.jpg"/> | <img width="400"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.02-20230615.jpg"/> |
 
-## AGIA第三期 
+## AGIA第三期 数字员工专场
 主持人：李国山 TGO(上海)学员
 ```
 ⏰时间：6月28日（周三） 18:30-21:30
@@ -57,7 +57,7 @@
 | --- | ----------- |
 | <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/003-photo.jpg"/> |  |
 
-## AGIA第四期 
+## AGIA第四期 走进商汤+知识库专场
 主持人：溢恩科技创始人李伟、TGO(上海)学员
 
 ```
@@ -76,7 +76,7 @@
 | --- | ----------- |
 | <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/004-photo.jpg"/> | <img width="400"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.04-20230712.jpg"/> |
 
-## AGIA第五期 
+## AGIA第五期 tigerbot专场
 主持人：溢恩科技创始人李伟、TGO(上海)学员
 
 ```
@@ -115,7 +115,7 @@
 | <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/006-photo.jpg"/> | <img width="400"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.06.jpg"/> |
 
 
-## AGIA第七期 
+## AGIA第七期 ai+音频专场
 主持人：寻路猫联创龙凡、TGO(上海)学员
 ```
 ⏰时间：8月9日（周三） 18:30-21:30
@@ -134,7 +134,7 @@
 | <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/007-photo.jpg"/> | <img width="400"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.07.jpg"/> |
 
 
-## AGIA第八期 
+## AGIA第八期 Ai agent专场
 主持人：Ucloud 邵晓春、TGO(上海)学员
 ```
 ⏰时间：8 月 23 日 18:30-21:30
@@ -152,7 +152,7 @@
 | <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/008-photo.jpg"/> | <img width="400"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.08.jpg"/> |
 
 
-## AGIA第九期 
+## AGIA第九期
 主持人：陆云昆 钢蜂信息科技 CTO、TGO(上海)学员
 
 ```
@@ -173,7 +173,8 @@
 | <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/009-photo.jpg"/> | <img width="400"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.09.jpg"/> |
 
 
-## AGIA第九期-上海GTLC闭门会专场 - 大模型/AIGC商业化落地全国经验专题闭门会
+## AGIA第九期 上海GTLC闭门会专场
+主题：大模型/AIGC商业化落地全国经验专题闭门会
 主持人： 洪倍 valueZ 智库创始人、TGO(上海)学员
 
 ```
@@ -193,7 +194,7 @@
 | <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/009.GTLC.photo.jpg"/> | <img width="400"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.09.GTLC.jpg"/> |
 
 
-## AGIA第十期 
+## AGIA第十期 数字人专场
 主持人：张建华 递零科技 CEO、TGO(上海)学员
 
 ```
