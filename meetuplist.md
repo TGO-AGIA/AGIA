@@ -190,7 +190,7 @@
 ```
 | 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/009.GTLC-photo.jpg"/> | <img width="400"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.09.GTLC.jpg"/> |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/009.GTLC.photo.jpg"/> | <img width="400"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.09.GTLC.jpg"/> |
 
 
 ## AGIA第十期 
