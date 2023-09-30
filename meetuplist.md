@@ -14,7 +14,7 @@
 ```
 | 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.01-20230531..jpg"/> |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/001-photo.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.01-20230531.jpg"/> |
 
 
 
@@ -34,7 +34,7 @@
 ```
 | 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.02-20230615.jpg"/> |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/002-photo.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.02-20230615.jpg"/> |
 
 ## AGIA第三期 
 主持人：李国山 TGO(上海)学员
@@ -53,7 +53,7 @@
 ```
 | 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> |  |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/003-photo.jpg"/> |  |
 
 ## AGIA第四期 
 ```
@@ -71,7 +71,7 @@
 ```
 | 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.04-20230712..jpg"/> |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/004-photo.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.04-20230712.jpg"/> |
 
 ## AGIA第五期 
 ```
@@ -89,7 +89,7 @@
 ```
 | 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/> |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/005-photo.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/> |
 
 
 ## AGIA第六期 
@@ -99,7 +99,7 @@
 ```
 | 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/> |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/006-photo.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.06.jpg"/> |
 
 
 ## AGIA第七期 
@@ -118,7 +118,7 @@
 ```
 | 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/> |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/007-photo.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.07.jpg"/> |
 
 
 ## AGIA第八期 
@@ -136,7 +136,7 @@
 ```
 | 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/> |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/008-photo.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.08.jpg"/> |
 
 
 ## AGIA第九期 
@@ -156,7 +156,7 @@
 ```
 | 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/> |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/009-photo.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.09.jpg"/> |
 
 
 ## AGIA第九期-上海GTLC闭门会专场 - 大模型/AIGC商业化落地全国经验专题闭门会
@@ -175,7 +175,7 @@
 ```
 | 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/> |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/009.GTLC-photo.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.09.GTLC.jpg"/> |
 
 
 ## AGIA第十期 
@@ -197,4 +197,4 @@
 ```
 | 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/> |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/010-photo.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.10.jpg"/> |
