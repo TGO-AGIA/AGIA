@@ -2,6 +2,7 @@
 
 ## AGIA第一期 
 ```
+主持人：ValueZ创始人 洪倍
 日期：5月31 日 (周三) 19:00-21:30
 地址：乐言科技 (长宁路 1033 号联大厦 19 楼)
 
@@ -11,7 +12,6 @@
 20:15-21:00 分享 2:《构建企业级的私有大模型加速从数据到智能的进程》 李雪晴 猴子无限联合创始人、商业化负责人
 21:00-21:30 AGIA 开营仪式+合影
 ```
-| Syntax | Description |
 | --- | ----------- |
 | <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="300" src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.01-20230531..jpg"/> |
 
