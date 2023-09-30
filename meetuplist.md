@@ -2,7 +2,7 @@
 
 ## 目录
 ```
-## AGIA第一期 2023年5月31日（周三）
+## [AGIA第一期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第一期) 2023年5月31日（周三）
 ## AGIA第二期 SD专场 2023年6月15日（周三）
 ## AGIA第三期 数字员工专场 2023年6月28日（周三）
 ## AGIA第四期 走进商汤+知识库专场 2023年7月12日（周三）
