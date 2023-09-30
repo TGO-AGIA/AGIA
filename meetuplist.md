@@ -2,7 +2,7 @@
 
 ## 目录
 
-| 序号 |    场次     |   专题     |  主持人/组织者  |    日期    |
+| 序号 |    场次     |   主题     |  主持人/组织者  |    日期    |
 | --- | ----------- |---------- |-------------- |---------- |
 | 1 | [AGIA第一期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第一期)  |  | ValueZ创始人 洪倍| 2023年5月31日（周三） |
 |  2 |  [AGIA第二期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第二期-SD专场) |   SD专场 |张建华 递零科技 CEO |2023年6月15日（周三）
