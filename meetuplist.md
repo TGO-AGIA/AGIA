@@ -2,6 +2,10 @@
 
 ## 目录
 
+| 序号 |    场次     |   专题     |    日期    |
+| --- | ----------- |---------- |---------- |
+| 1 | [AGIA第一期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第一期)  | 无 |2023年5月31日（周三） |
+
 - 1  [AGIA第一期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第一期) 2023年5月31日（周三）
 - 2  [AGIA第二期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第二期-SD专场) SD专场 2023年6月15日（周三）
 - 3  [AGIA第三期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第三期-数字员工专场) 数字员工专场 2023年6月28日（周三）
