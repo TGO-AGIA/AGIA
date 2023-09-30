@@ -1,6 +1,7 @@
-![image](https://github.com/TGO-AGIA/AGIA/assets/298383/bb15f0d9-4b9f-499a-b96e-906aa2a0dc8d)# 记录 AGIA 实战营线下沙龙的海报和活动信息
+# 记录 AGIA 实战营线下沙龙的海报和活动信息
 
 ## AGIA第一期 
+```
 日期：5月31 日 (周三) 19:00-21:30
 地址：乐言科技 (长宁路 1033 号联大厦 19 楼)
 
@@ -9,6 +10,7 @@
 19:30-20:15 分享 1: 《乐言大模型赋能电商AIGC》 李波 乐言 CTO
 20:15-21:00 分享 2:《构建企业级的私有大模型加速从数据到智能的进程》 李雪晴 猴子无限联合创始人、商业化负责人
 21:00-21:30 AGIA 开营仪式+合影
+```
 <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/>
 
 
