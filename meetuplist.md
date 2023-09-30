@@ -14,7 +14,7 @@
 ```
 | 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="200" src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.01-20230531..jpg"/> |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.01-20230531..jpg"/> |
 
 
 
