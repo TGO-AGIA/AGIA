@@ -1,8 +1,9 @@
 # 记录 AGIA 实战营线下沙龙的海报和活动信息
 
 ## AGIA第一期 
-```
 主持人：ValueZ创始人 洪倍、TGO(上海)学员
+
+```
 日期：5月31 日 (周三) 19:00-21:30
 地址：乐言科技 (长宁路 1033 号联大厦 19 楼)
 
@@ -14,13 +15,14 @@
 ```
 | 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/001-photo.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.01-20230531.jpg"/> |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/001-photo.jpg"/> | <img width="400"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.01-20230531.jpg"/> |
 
 
 
 ## AGIA第二期 
-```
 主持人：张建华 递零科技 CEO、TGO(上海)学员
+
+```
 日期：6月15 日 (周四) 18:30-21:30
 地址：长宁区(报名后在群组通知)
 
@@ -34,7 +36,7 @@
 ```
 | 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/002-photo.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.02-20230615.jpg"/> |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/002-photo.jpg"/> | <img width="400"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.02-20230615.jpg"/> |
 
 ## AGIA第三期 
 主持人：李国山 TGO(上海)学员
@@ -56,8 +58,9 @@
 | <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/003-photo.jpg"/> |  |
 
 ## AGIA第四期 
-```
 主持人：溢恩科技创始人李伟、TGO(上海)学员
+
+```
 ⏰时间：7月12日（周三） 18:30-21:30
 📍地址：上海漕河泾虹梅路 1900 号商汤科技大厦3楼人民广场会议室
 
@@ -71,11 +74,12 @@
 ```
 | 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/004-photo.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.04-20230712.jpg"/> |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/004-photo.jpg"/> | <img width="400"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.04-20230712.jpg"/> |
 
 ## AGIA第五期 
-```
 主持人：溢恩科技创始人李伟、TGO(上海)学员
+
+```
 ⏰时间：2023 年7月26日（周三） 18:30-21:30
 📍地址：上海市长宁区凯旋路1522号东方明珠凯旋中心7楼
 
@@ -92,19 +96,28 @@
 | <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/005-photo.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/> |
 
 
-## AGIA第六期 
+## AGIA第六期 武汉专场
 ```
+时间：7月30 日 (星期日) 15:00-17:30
+地址：武汉
 
-
+15:00-15:20 现场破冰 + 轮流自我介绍
+15:20-16:00
+《面向专业领域的大模型知识问答》
+罗亚中国科学院计算所博士生导师TGO 北京学员
+博士，中国科学院计算技术研究所博士生导师，副研究员。研究领域为数据挖掘和机器学习，尤其是在“文档智能”(Document AI) 方面的基础算法和创新应用研究。
+16:00-16:10 中场休息 + 合影
+16:10-16:50 来自神秘嘉宾的神秘主题
+16:50-17:30 分组交流
 ```
 | 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/006-photo.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.06.jpg"/> |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/006-photo.jpg"/> | <img width="400"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.06.jpg"/> |
 
 
 ## AGIA第七期 
-```
 主持人：寻路猫联创龙凡、TGO(上海)学员
+```
 ⏰时间：8月9日（周三） 18:30-21:30
 📍地址：上海田林路1036号科技绿洲16号楼三楼大会议室
  
@@ -122,8 +135,8 @@
 
 
 ## AGIA第八期 
-```
 主持人：Ucloud 邵晓春、TGO(上海)学员
+```
 ⏰时间：8 月 23 日 18:30-21:30
 📍地址：上海浦东新区纳贤路 800 号 B 座二楼 213
 📝议程：
@@ -140,8 +153,9 @@
 
 
 ## AGIA第九期 
-```
 主持人：陆云昆 钢蜂信息科技 CTO、TGO(上海)学员
+
+```
 ⏰时间：9 月 13 日（周三） 18:30-21:30
 📍地址：上海浦东新区纳贤路 800 号 B 座二楼 213
 
@@ -160,8 +174,9 @@
 
 
 ## AGIA第九期-上海GTLC闭门会专场 - 大模型/AIGC商业化落地全国经验专题闭门会
-```
 主持人： 洪倍 valueZ 智库创始人、TGO(上海)学员
+
+```
 时间：白9月23日 14:00-16:30
 地址：上海明捷万丽酒店
 
@@ -179,8 +194,9 @@
 
 
 ## AGIA第十期 
-```
 主持人：张建华 递零科技 CEO、TGO(上海)学员
+
+```
 ⏰ 时间：2023 年 9 月 27 日（周三）18:30-21:30
 📍 地址：上海浦东新区纳贤路800号 B座二楼大会议室
 
