@@ -2,7 +2,7 @@
 
 ## AGIA第一期 
 ```
-主持人：ValueZ创始人 洪倍
+主持人：ValueZ创始人 洪倍、TGO(上海)学员
 日期：5月31 日 (周三) 19:00-21:30
 地址：乐言科技 (长宁路 1033 号联大厦 19 楼)
 
@@ -20,20 +20,53 @@
 
 ## AGIA第二期 
 ```
-主持人：ValueZ创始人 洪倍
-日期：5月31 日 (周三) 19:00-21:30
-地址：乐言科技 (长宁路 1033 号联大厦 19 楼)
+主持人：张建华 递零科技 CEO、TGO(上海)学员
+日期：6月15 日 (周四) 18:30-21:30
+地址：长宁区(报名后在群组通知)
 
+18:30-19:00 签到
+19:00-19:30 破冰 (一句话介绍自己)
+19:30-20:30 主题 1: 现场手撸sd +炼丹心得 龙凡 寻路猫 CTO、TGO 鹏会 (上海) 学
+20:30-21:30 圆桌讨论
+ 双希 跃中国神秘嘉宾
+ 王广宇 格物铁首席产品官
+ 讨论SD在垂直行业实践落地的可能性投资人视角看AIGC行业前景，分享洞见产品人构建基于模型的产品，分享突破闲境的思路与方法
 ```
 | 合照 |    海报     |
 | --- | ----------- |
 | <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.02-20230615.jpg"/> |
 
+## AGIA第三期 
+主持人：李国山 TGO(上海)学员
+```
+⏰时间：6月28日（周三） 18:30-21:30
+📍地址：普陀区金沙江路938号808室
+
+📝议程：
+18:30-19:00  签到
+19:00-19:30  破冰（一句话介绍自己）
+19:30-20:15 分享1：钢蜂科技 CTO  陆云昆——LLM在数字员工产品中的应用
+20:15-21:00 圆桌交流：安排三位在实战LLM在垂直行业落地的嘉宾讨论
+21:00-21:30  自由交流
+
+
+```
+| 合照 |    海报     |
+| --- | ----------- |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> |  |
+
 ## AGIA第四期 
 ```
-主持人：ValueZ创始人 洪倍
-日期：5月31 日 (周三) 19:00-21:30
-地址：乐言科技 (长宁路 1033 号联大厦 19 楼)
+主持人：溢恩科技创始人李伟、TGO(上海)学员
+⏰时间：7月12日（周三） 18:30-21:30
+📍地址：上海漕河泾虹梅路 1900 号商汤科技大厦3楼人民广场会议室
+
+📝议程：
+18:30-19:00 签到
+19:00-19:30 破冰（一句话介绍自己）
+19:30-20:15 分享1：让大模型学习企业知识——梁宇鹏（一乐）
+20:15-21:00 圆桌交流
+21:00-21:30 自由交流
 
 ```
 | 合照 |    海报     |
@@ -42,9 +75,16 @@
 
 ## AGIA第五期 
 ```
-主持人：ValueZ创始人 洪倍
-日期：5月31 日 (周三) 19:00-21:30
-地址：乐言科技 (长宁路 1033 号联大厦 19 楼)
+主持人：溢恩科技创始人李伟、TGO(上海)学员
+⏰时间：2023 年7月26日（周三） 18:30-21:30
+📍地址：上海市长宁区凯旋路1522号东方明珠凯旋中心7楼
+
+📝议程：
+18:30-19:00 签到
+19:00-19:30 破冰（一句话介绍自己）
+19:30-20:15 分享1：TigerBot V2训练中的科学与工程探索—— 虎博科技创始人&CEO 陈烨博士
+20:15-21:00 圆桌交流
+21:00-21:30 自由交流
 
 ```
 | 合照 |    海报     |
@@ -52,4 +92,109 @@
 | <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/> |
 
 
+## AGIA第六期 
+```
 
+
+```
+| 合照 |    海报     |
+| --- | ----------- |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/> |
+
+
+## AGIA第七期 
+```
+主持人：寻路猫联创龙凡、TGO(上海)学员
+⏰时间：8月9日（周三） 18:30-21:30
+📍地址：上海田林路1036号科技绿洲16号楼三楼大会议室
+ 
+📝议程：
+18:30-19:00 签到
+19:00-19:30 破冰（一句话介绍自己）
+19:30-20:15 分享1：《如何用AI创造一个有质感的声线》—— 沈博文 (萝卜)、瓦力数科 创始人&CTO
+20:15-21:00 圆桌交流
+21:00-21:30 自由交流
+
+```
+| 合照 |    海报     |
+| --- | ----------- |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/> |
+
+
+## AGIA第八期 
+```
+主持人：Ucloud 邵晓春、TGO(上海)学员
+⏰时间：8 月 23 日 18:30-21:30
+📍地址：上海浦东新区纳贤路 800 号 B 座二楼 213
+📝议程：
+18:30-19:00 签到
+19:00-19:30 破冰（一句话介绍自己）
+19:30-20:15 《澜码在大模型➕HRtech行业落地的实践》——周元剑，澜码科技联合创始人
+20:15-21:00 《AI Agent技术的实践与应用》——胡溢洋，太水科技CTO
+21:00-21:30 自由讨论
+
+```
+| 合照 |    海报     |
+| --- | ----------- |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/> |
+
+
+## AGIA第九期 
+```
+主持人：陆云昆 钢蜂信息科技 CTO、TGO(上海)学员
+⏰时间：9 月 13 日（周三） 18:30-21:30
+📍地址：上海浦东新区纳贤路 800 号 B 座二楼 213
+
+📝议程：
+18:30-19:00 签到
+19:00-19:30 破冰（一句话介绍自己）
+19:30-20:00 分享 1：《Alternative to GPT towards AGI》——杨晶生、飞书AI团队技术负责人、TGO（上海）学员
+20:00-20:30 分享 2：《GLM 通用大模型在垂直场景的实践》——王仿、GLM 大模型解决方案负责人
+20:30-21:00 分享 3：《AI Agent 创业者的内功》——桂林、传音控股 IM 产品部技术负责人
+21:00-21:30 自由讨论
+
+```
+| 合照 |    海报     |
+| --- | ----------- |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/> |
+
+
+## AGIA第九期-上海GTLC闭门会专场 - 大模型/AIGC商业化落地全国经验专题闭门会
+```
+主持人： 洪倍 valueZ 智库创始人、TGO(上海)学员
+时间：白9月23日 14:00-16:30
+地址：上海明捷万丽酒店
+
+分享1：LLM+知识库落地实践 -乐 蓝莺™ CEO
+分享2：LLM赋能ToB 销售的实践 华琨 优司服 CEO
+分享3：进入一个不一样的SD 孙其瑞 杭州优频 CTO
+分享4：ToC 场景下，如何快速落地 LLM 应用 樊伟伟 微鲤科技@硏发总监
+分享5：Al 赋能传统垂直领域的发展 丁鹏 万界智算 CTO
+分享6：大模型时代 Al 中间层的实践 卢亿雷 白海科技 CEO
+
+```
+| 合照 |    海报     |
+| --- | ----------- |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/> |
+
+
+## AGIA第十期 
+```
+主持人：张建华 递零科技 CEO、TGO(上海)学员
+⏰ 时间：2023 年 9 月 27 日（周三）18:30-21:30
+📍 地址：上海浦东新区纳贤路800号 B座二楼大会议室
+
+主题：大模型/AIGC 商业化落地全国经验专题闭门会
+
+议程：
+18:30-19:00 签到
+19:00-19:20 破冰（一句话介绍自己）
+19:30-19:50 《如何快速打造可用的数字人产品》——张晓星 AGI 落地实践者
+19:50-20:10 《AI 数字人关键技术及其应用》——李三平 博士
+20:10-20:30 《Alternatives to GPT towards AGI》——杨晶生 飞书 Al 团队技术负责人、TGO（上海） 学员
+20:30-21:30 自由讨论
+
+```
+| 合照 |    海报     |
+| --- | ----------- |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="600"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.05-20230726.jpg"/> |
