@@ -95,7 +95,7 @@ GPU算力赞助商：http://wanjiedata.com/home
 
 ## ----------
 
-| AGIA Github主页 |    申请加入链接     |  
+| AGIA 主页二维码 |    申请加入二维码     |  
 | ----------------- | --------------- |
 | <img width="200" src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-github.png"/>| <img width="200" src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-in.png"/> |
 
