@@ -8,7 +8,7 @@
 - 4  [AGIA第四期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第四期-走进商汤+知识库专场) 走进商汤+知识库专场 2023年7月12日（周三）
 - 5  [AGIA第五期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第五期-tigerbot专场) tigerbot专场 2023年7月26日（周三）
 - 6  [AGIA第六期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第六期-武汉专场) 武汉专场 2023年7月30日 (星期日)
-- 7  [AGIA第七期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第七期-ai+音频专场) ai+音频专场 2023年8月9日（周三）
+- 7  [AGIA第七期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第七期-ai音频专场) ai+音频专场 2023年8月9日（周三）
 - 8  [AGIA第八期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第八期-Ai-agent专场) Ai agent专场 2023年8月23日（周三）
 - 9  [AGIA第九期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第九期) 2023年9月13日（周三）
 - 10 [AGIA第九期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第九期-上海GTLC闭门会专场) 上海GTLC闭门会专场 2023年9月23日 
