@@ -12,9 +12,9 @@
 20:15-21:00 分享 2:《构建企业级的私有大模型加速从数据到智能的进程》 李雪晴 猴子无限联合创始人、商业化负责人
 21:00-21:30 AGIA 开营仪式+合影
 ```
-| 合照 | 海报 |
+| 合照 |    海报     |
 | --- | ----------- |
-| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="300" src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.01-20230531..jpg"/> |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/header.jpg"/> | <img width="200" src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.01-20230531..jpg"/> |
 
 
 
