@@ -20,7 +20,7 @@
 |  7 |  [AGIA第七期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第七期-ai音频专场) |  ai+音频专场 |寻路猫联创龙凡| 2023年8月9日（周三）
 |  8 |  [AGIA第八期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第八期-Ai-agent专场) | Ai agent专场 |Ucloud 邵晓春 | 2023年8月23日（周三）
 |  9 |  [AGIA第九期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第九期) || 陆云昆 钢蜂信息科技 CTO| 2023年9月13日（周三）
-|  10 |  [AGIA第九期.2](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第九期-上海GTLC闭门会专场) |  上海GTLC闭门会专场| ValueZ创始人 洪倍| 2023年9月23日 
+|  10 |  [AGIA第九期.2](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第九期2-上海GTLC闭门会专场) |  上海GTLC闭门会专场| ValueZ创始人 洪倍| 2023年9月23日 
 |  11 |  [AGIA第十期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第十期-数字人专场) |  数字人专场| 张建华 递零科技 CEO| 2023年9月27日（周三）
 
 ## AGIA实战营是什么 
