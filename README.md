@@ -11,7 +11,7 @@
 
 | 序号 |    场次     |   主题     |  主持人/组织者  |    日期    |
 | --- | ----------- |---------- |-------------- |---------- |
-| 1 | [AGIA第一期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第一期)  |  | ValueZ创始人 洪倍| 2023年5月31日（周三） |
+| 1 | [AGIA第一期](meetuplist.md#AGIA第一期)  |  | ValueZ创始人 洪倍| 2023年5月31日（周三） |
 |  2 |  [AGIA第二期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第二期-SD专场) |   SD专场 |张建华 递零科技 CEO |2023年6月15日（周三）
 |  3 | [AGIA第三期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第三期-数字员工专场) |   数字员工专场 |小择智能 李国山 |2023年6月28日（周三）
 |  4 |  [AGIA第四期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第四期-走进商汤+知识库专场) |走进商汤+知识库专场 |溢恩科技创始人李伟| 2023年7月12日（周三）
