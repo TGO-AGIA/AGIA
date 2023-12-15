@@ -15,6 +15,7 @@
 |  9 |  [AGIA第九期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第九期) || 陆云昆 钢蜂信息科技 CTO| 2023年9月13日（周三）
 |  10 |  [AGIA第九期.2](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第九期2-上海GTLC闭门会专场) |  上海GTLC闭门会专场| ValueZ创始人 洪倍| 2023年9月23日 
 |  11 |  [AGIA第十期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第十期-数字人专场) |  数字人专场| 张建华 递零科技 CEO| 2023年9月27日（周三）
+|  12 |  [AGIA第十一期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第十一-期全局视角专场) |  全局视角专场| 李国山 小择智能 创始人| 2023年10月11日（周三）
 
 ## AGIA第一期 
 主持人：ValueZ创始人 洪倍、TGO(上海)学员
@@ -231,3 +232,26 @@
 | 合照 |    海报     |
 | --- | ----------- |
 | <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/010-photo.jpg"/> | <img width="400"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.10.jpg"/> |
+
+
+## AGIA第十一期 全局视角专场
+主持人：李国山 小择智能 创始人、TGO(上海)学员
+
+```
+⏰ 时间：2023年10月11日（周三）18:30-21:30
+📍 地址：上海市普陀区金沙江路 938 号 8 楼
+
+主题：大模型/AIGC 商业化落地全国经验专题闭门会
+
+议程：
+18:30-19:00 签到
+19:00-19:20 破冰（一句话介绍自己）
+19:30-19:50 《投资方如何看待大模型创业》——林文丰 靖亚资本 高级投资经理
+19:50-20:10 《消费级超写实数字人生成引擎》——逗炫科技 创始人
+20:10-20:30 《大模型创业机会的选择》——洪倍 ValueZ智库创始人  前AdMaster联创
+20:30-21:30 自由讨论
+
+```
+| 合照 |    海报     |
+| --- | ----------- |
+| <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.11.jpg"/>  | <img width="400"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.11-Ad.jpg"/> |
