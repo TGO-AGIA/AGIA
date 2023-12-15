@@ -15,7 +15,7 @@
 |  9 |  [AGIA第九期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第九期) || 陆云昆 钢蜂信息科技 CTO| 2023年9月13日（周三）
 |  10 |  [AGIA第九期.2](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第九期2-上海GTLC闭门会专场) |  上海GTLC闭门会专场| ValueZ创始人 洪倍| 2023年9月23日 
 |  11 |  [AGIA第十期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第十期-数字人专场) |  数字人专场| 张建华 递零科技 CEO| 2023年9月27日（周三）
-|  12 |  [AGIA第十一期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第十一-期全局视角专场) |  全局视角专场| 李国山 小择智能 创始人| 2023年10月11日（周三）
+|  12 |  [AGIA第十一期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第十一期-全局视角专场) |  全局视角专场| 李国山 小择智能 创始人| 2023年10月11日（周三）
 
 ## AGIA第一期 
 主持人：ValueZ创始人 洪倍、TGO(上海)学员
