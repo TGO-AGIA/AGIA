@@ -234,7 +234,7 @@
 | <img src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/010-photo.jpg"/> | <img width="400"  src="https://github.com/TGO-AGIA/AGIA/blob/main/meetup_posters/AGIA-meetup-No.10.jpg"/> |
 
 
-## AGIA第十一期 全局视角专场
+##AGIA第十一 期全局视角专场
 主持人：李国山 小择智能 创始人、TGO(上海)学员
 
 ```
