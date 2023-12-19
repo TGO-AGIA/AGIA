@@ -34,17 +34,19 @@
 
 ## AGIA实战营是什么 
 
-AGIA 实战营（AGI in Action），是由 20 位 [TGO 鲲鹏会](https://tgo.infoq.cn/)会员共同发起的，隶属于 TGO 鲲鹏会的**开放社区**，面向 **TGO 鲲鹏会会员**以及**所有关注 AGI 实战落地的朋友**，成员以大模型方向的创业者和中高层技术管理者为主。AGIA 实战营定期组织线下沙龙深度交流实战案例，聚合资源，助力大模型更快落地。主理人为 [TGO 鲲鹏会](https://tgo.infoq.cn/)学员古德白（白新奋）。
+AGIA 实战营（AGI in Action），是由 20 位 [TGO 鲲鹏会](https://tgo.infoq.cn/)会员共同发起的，成员以大模型方向的创业者和中高层技术管理者为主。AGIA 实战营定期组织线下沙龙深度交流实战案例，聚合资源，助力大模型更快落地。。
   
 
-- 项目主页：https://github.com/TGO-AGIA/AGIA/ 
 - 组织名称：AGIA（AGI in Action）-AGIA 实战营
 - 愿景：成为东半球最有影响力的**大模型开放社区**
 - 使命：完成落地100个实战需求
 - 价值观：实战落地 实战落地 实战落地
+- 项目主页：https://github.com/TGO-AGIA/AGIA
+- 墙内主页：https://gitee.com/good_bai/AGIA) 
 - 面向人群：
   - 1 [TGO 鲲鹏会](https://tgo.infoq.cn/)会员；
   - 2 所有关注 AGI 实战落地的朋友；
+- 主理人: 古德白（白新奋）
 
 ## 人员
 
