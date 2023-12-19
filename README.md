@@ -15,10 +15,10 @@ AGIA 实战营（AGI in Action），是由 20 位 [TGO 鲲鹏会](https://tgo.in
 
 - 组织名称：AGIA（AGI in Action）-AGIA 实战营
 - 愿景：成为东半球最有影响力的**大模型开放社区**
-- 使命：完成落地100个实战需求
+- 使命：推动100个实战需求落地
 - 价值观：实战落地 实战落地 实战落地
 - 项目主页：https://github.com/TGO-AGIA/AGIA
-- 墙内主页：https://gitee.com/good_bai/AGIA) 
+- 墙内主页：https://gitee.com/good_bai/AGIA
 - 面向人群：
   - 1 [TGO 鲲鹏会](https://tgo.infoq.cn/)会员；
   - 2 所有关注 AGI 实战落地的朋友；
