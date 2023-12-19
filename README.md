@@ -1,4 +1,4 @@
-<img src="meetup_posters/002-photo.jpg"/>
+<img src="./meetup_posters/002-photo.jpg"/>
 
 
 <p align="center">
@@ -13,31 +13,31 @@
 | --- | ----------- |---------- |-------------- |---------- |
 | 1 | [AGIA第一期](./meetuplist.md#AGIA第一期)  |  | ValueZ创始人 洪倍| 2023年5月31日（周三） |
 |  2 |  [AGIA第二期](./meetuplist.md#AGIA第二期-SD专场) |   SD专场 |张建华 递零科技 CEO |2023年06月15日（周三）
-|  3 | [AGIA第三期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第三期-数字员工专场) |   数字员工专场 |小择智能 李国山 |2023年06月28日（周三）
-|  4 |  [AGIA第四期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第四期-走进商汤+知识库专场) |走进商汤+知识库专场 |溢恩科技创始人李伟| 2023年07月12日（周三）
-|  5 |  [AGIA第五期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第五期-tigerbot专场) |  tigerbot专场 |溢恩科技创始人李伟| 2023年07月26日（周三）
-|  6 |  [AGIA第六期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第六期-武汉专场) | 武汉专场||  2023年07月30日 (星期日)
-|  7 |  [AGIA第七期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第七期-ai音频专场) |  ai+音频专场 |寻路猫联创龙凡| 2023年08月09日（周三）
-|  8 |  [AGIA第八期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第八期-Ai-agent专场) | Ai agent专场 |Ucloud 邵晓春 | 2023年08月23日（周三）
-|  9 |  [AGIA第九期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第九期) || 陆云昆 钢蜂信息科技 CTO| 2023年9月13日（周三）
-|  10 |  [AGIA第九期.2](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第九期2-上海GTLC闭门会专场) |  上海GTLC闭门会专场| ValueZ创始人 洪倍| 2023年09月23日 
-|  11 |  [AGIA第十期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第十期-数字人专场) |  数字人专场| 张建华 递零科技 CEO| 2023年09月27日（周三）
-|  12 |  [AGIA第十一期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第十一期-全局视角专场) |  全局视角专场| 李国山 小择智能 创始人| 2023年10月11日（周三）
-|  11 |  [AGIA第十期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第十期-数字人专场) |  数字人专场| 张建华 递零科技 CEO| 2023年09月27日（周三）
-|  12 |  [AGIA第十一期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第十一期-全局视角专场) |  全局视角专场| 李国山 小择智能 创始人| 2023年10月11日（周三）
-|  13 |  [AGIA第十二期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第十二期) |   | 沈博文 瓦力数科创始人 | 2023年10月25日（周三）
-|  14 |  [AGIA第十三期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第十三期) |   | 溢恩科技创始人李伟| 2023年11月08日（周三） 
-|  15 |  [AGIA第十四期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第十四期) |   | 孙志博 深查智能 联创 | 2023年11月22日（周三） 
-|  16 |  [AGIA第十五期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第十五期) |   | 邵晓春 智谱 AI | 2023年12月06日（周三） 
-|  17 |  [AGIA第十六期](https://github.com/TGO-AGIA/AGIA/blob/main/meetuplist.md#AGIA第十六期) | 走进伍董会-圣诞专场  | 邵晓春 智谱 AI | 2023年12月20日（周三） 
+|  3 | [AGIA第三期](./meetuplist.md#AGIA第三期-数字员工专场) |   数字员工专场 |小择智能 李国山 |2023年06月28日（周三）
+|  4 |  [AGIA第四期](./meetuplist.md#AGIA第四期-走进商汤+知识库专场) |走进商汤+知识库专场 |溢恩科技创始人李伟| 2023年07月12日（周三）
+|  5 |  [AGIA第五期](./meetuplist.md#AGIA第五期-tigerbot专场) |  tigerbot专场 |溢恩科技创始人李伟| 2023年07月26日（周三）
+|  6 |  [AGIA第六期](./meetuplist.md#AGIA第六期-武汉专场) | 武汉专场||  2023年07月30日 (星期日)
+|  7 |  [AGIA第七期](./meetuplist.md#AGIA第七期-ai音频专场) |  ai+音频专场 |寻路猫联创龙凡| 2023年08月09日（周三）
+|  8 |  [AGIA第八期](./meetuplist.md#AGIA第八期-Ai-agent专场) | Ai agent专场 |Ucloud 邵晓春 | 2023年08月23日（周三）
+|  9 |  [AGIA第九期](./meetuplist.md#AGIA第九期) || 陆云昆 钢蜂信息科技 CTO| 2023年9月13日（周三）
+|  10 |  [AGIA第九期.2](./meetuplist.md#AGIA第九期2-上海GTLC闭门会专场) |  上海GTLC闭门会专场| ValueZ创始人 洪倍| 2023年09月23日 
+|  11 |  [AGIA第十期](./meetuplist.md#AGIA第十期-数字人专场) |  数字人专场| 张建华 递零科技 CEO| 2023年09月27日（周三）
+|  12 |  [AGIA第十一期](./meetuplist.md#AGIA第十一期-全局视角专场) |  全局视角专场| 李国山 小择智能 创始人| 2023年10月11日（周三）
+|  11 |  [AGIA第十期](./meetuplist.md#AGIA第十期-数字人专场) |  数字人专场| 张建华 递零科技 CEO| 2023年09月27日（周三）
+|  12 |  [AGIA第十一期](./meetuplist.md#AGIA第十一期-全局视角专场) |  全局视角专场| 李国山 小择智能 创始人| 2023年10月11日（周三）
+|  13 |  [AGIA第十二期](./meetuplist.md#AGIA第十二期) |   | 沈博文 瓦力数科创始人 | 2023年10月25日（周三）
+|  14 |  [AGIA第十三期](./meetuplist.md#AGIA第十三期) |   | 溢恩科技创始人李伟| 2023年11月08日（周三） 
+|  15 |  [AGIA第十四期](./meetuplist.md#AGIA第十四期) |   | 孙志博 深查智能 联创 | 2023年11月22日（周三） 
+|  16 |  [AGIA第十五期](./meetuplist.md#AGIA第十五期) |   | 邵晓春 智谱 AI | 2023年12月06日（周三） 
+|  17 |  [AGIA第十六期](./meetuplist.md#AGIA第十六期) | 走进伍董会-圣诞专场  | 邵晓春 智谱 AI | 2023年12月20日（周三） 
 
 
 ## AGIA实战营是什么 
 
-AGIA 实战营（AGI in Action），是由 20 位 [TGO 鲲鹏会](https://tgo.infoq.cn/)会员共同发起的，隶属于 TGO 鲲鹏会的**开放社区**，面向 **TGO 鲲鹏会会员**以及**所有关注 AGI 实战落地的朋友**，成员以大模型方向的创业者和中高层技术管理者为主。AGIA 实战营定期组织线下沙龙深度交流实战案例，聚合资源，助力大模型更快落地。主理人为 [TGO 鲲鹏会](https://tgo.infoq.cn/)学员古德白（白新奋）。项目主页：https://github.com/TGO-AGIA/AGIA/ 。
+AGIA 实战营（AGI in Action），是由 20 位 [TGO 鲲鹏会](https://tgo.infoq.cn/)会员共同发起的，隶属于 TGO 鲲鹏会的**开放社区**，面向 **TGO 鲲鹏会会员**以及**所有关注 AGI 实战落地的朋友**，成员以大模型方向的创业者和中高层技术管理者为主。AGIA 实战营定期组织线下沙龙深度交流实战案例，聚合资源，助力大模型更快落地。主理人为 [TGO 鲲鹏会](https://tgo.infoq.cn/)学员古德白（白新奋）。
   
 
-
+- 项目主页：https://github.com/TGO-AGIA/AGIA/ 
 - 组织名称：AGIA（AGI in Action）-AGIA 实战营
 - 愿景：成为东半球最有影响力的**大模型开放社区**
 - 使命：完成落地100个实战需求
