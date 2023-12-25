@@ -93,8 +93,6 @@ AGIA 实战营（AGI in Action），是由 20 位 [TGO 鲲鹏会](https://tgo.in
 |  10 |  [AGIA第九期.2](./meetuplist.md#AGIA第九期2-上海GTLC闭门会专场) |  上海GTLC闭门会专场| ValueZ创始人 洪倍| 2023年09月23日 
 |  11 |  [AGIA第十期](./meetuplist.md#AGIA第十期-数字人专场) |  数字人专场| 张建华 递零科技 CEO| 2023年09月27日（周三）
 |  12 |  [AGIA第十一期](./meetuplist.md#AGIA第十一期-全局视角专场) |  全局视角专场| 李国山 小择智能 创始人| 2023年10月11日（周三）
-|  11 |  [AGIA第十期](./meetuplist.md#AGIA第十期-数字人专场) |  数字人专场| 张建华 递零科技 CEO| 2023年09月27日（周三）
-|  12 |  [AGIA第十一期](./meetuplist.md#AGIA第十一期-全局视角专场) |  全局视角专场| 李国山 小择智能 创始人| 2023年10月11日（周三）
 |  13 |  [AGIA第十二期](./meetuplist.md#AGIA第十二期) |   | 沈博文 瓦力数科创始人 | 2023年10月25日（周三）
 |  14 |  [AGIA第十三期](./meetuplist.md#AGIA第十三期) |   | 溢恩科技创始人李伟| 2023年11月08日（周三） 
 |  15 |  [AGIA第十四期](./meetuplist.md#AGIA第十四期) |   | 孙志博 深查智能 联创 | 2023年11月22日（周三） 
