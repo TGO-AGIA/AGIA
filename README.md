@@ -8,19 +8,19 @@
 </p>
 
 
-## AGIA实战营是什么 
+## AGIA联盟是什么 
 
-AGIA 实战营（AGI in Action），是由 20 位 [TGO 鲲鹏会](https://tgo.infoq.cn/)会员共同发起的，成员以AGI方向的创业者和中高层技术管理者为主。AGIA 实战营定期组织线下沙龙深度交流实战案例，聚合资源，助力AGI更快落地。。
+AGIA 联盟（AGI Alliance），是由 多为AI创业者共同发起的，成员以AGI方向的创业者和中高层技术管理者为主。AGIA 联盟定期组织线下沙龙深度交流实战案例，聚合资源，助力AGI更快落地。。
   
 
-- 组织名称：AGIA（AGI in Action）-AGIA 实战营
+- 组织名称：AGIA（AGI Alliance）-AGIA 联盟
 - 愿景：成为东半球最有影响力的**AGI开放社区**
 - 使命：推动100个实战需求落地
 - 价值观：实战落地 实战落地 实战落地
 - 项目主页：https://github.com/TGO-AGIA/AGIA
 - 墙内主页：https://gitee.com/good_bai/AGIA
 - 面向人群：
-  - 1 [TGO 鲲鹏会](https://tgo.infoq.cn/)会员；
+  - 1 AI创业者；
   - 2 所有关注 AGI 实战落地的朋友；
 - 主理人: 古德白（白新奋）
 
@@ -74,8 +74,6 @@ AGIA 实战营（AGI in Action），是由 20 位 [TGO 鲲鹏会](https://tgo.in
 | 35 | 方懿 |   上海中联律师事务所，合伙人 |
 | 36 | 黄哲铿 （Mr.K）   | 顿悟山丘，创始人 |
 
-### 所有创始成员：  
-建华@递零科技, 邓军@数据领航, 丁鹏@万界数据, 周毅Joey@顿匠科技, 张广智, 宜博@LLMFarm.com, 林刚@万国数据, 李国山, 李伟@溢恩科技, 李聪, 孙其瑞@ai视觉, 徐季秋, 老白@随手科技, Richard Wang(王军)@深演智能, 龙斌@知室, 龙凡@寻路猫科技, wallace王华锋, 江冬勤@LinkWechat, 邵晓春, Zhibo, 陆云昆  
 
 ## 线下沙龙记录
 
